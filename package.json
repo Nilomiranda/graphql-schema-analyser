@@ -1,0 +1,10 @@
+{
+  "name": "graphql-schema-analyser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Danilo Miranda",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-schema-diff": "^2.7.0"
+  }
+}
